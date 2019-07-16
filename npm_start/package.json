@@ -1,0 +1,15 @@
+{
+  "name": "npm_start_http",
+  "version": "1.0.0",
+  "description": "A learning experiment of running npm start with http module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lin",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "license": "ISC"
+}
